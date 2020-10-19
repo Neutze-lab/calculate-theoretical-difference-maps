@@ -5,7 +5,9 @@ This script creates a theoretical difference density map from two PDB files, a g
 
 **USAGE**
 
-* edit variables: Put correct paths into: _inputDirectory_ and _nameOfGroundState_ and modify variables _groundStatePDB_ and _nameOfGroundState_
+* edit variables: 
+  * Put correct paths into: _inputDirectory_ and _nameOfGroundState_.
+  * Modify variables _groundStatePDB_ and _nameOfGroundState_ to your own ground state.
 
 * Execute as:
   * Option 1: 
