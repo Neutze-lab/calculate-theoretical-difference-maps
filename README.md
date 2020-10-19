@@ -5,20 +5,20 @@ This script creates a theoretical difference density map from two PDB files, a g
 
 **USAGE**
 
-* edit variables: 
+* Edit variables: 
   * Put correct paths into: _inputDirectory_ and _nameOfGroundState_.
   * Modify variables _groundStatePDB_ and _nameOfGroundState_ to your own ground state.
 
-* Execute as:
+* Execute:
   * Option 1: 
-  <pre><code>
-  chmod +x calculateTheoreticalDifferenceMaps.sh
-  ./calculateTheoreticalDifferenceMaps.sh
-  </code></pre>
+    <pre><code>
+    chmod +x calculateTheoreticalDifferenceMaps.sh
+    ./calculateTheoreticalDifferenceMaps.sh
+    </code></pre>
   * Option 2:
-  <pre><code>
-  sh calculateTheoreticalDifferenceMaps.sh
-  </code></pre>
+    <pre><code>
+    sh calculateTheoreticalDifferenceMaps.sh
+    </code></pre>
 
 ---
 _Written by Adams Vallejos_
